@@ -1,0 +1,39 @@
+{
+    "name": "oxygen-theme",
+    "displayName": "Oxygen Theme",
+    "description": "",
+    "publisher": "OxygenTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sank3tX/oxygen-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Sank3tX/oxygen-vscode-theme/issues"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "icon": "assets/icon-250x250.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Oxygen Theme",
+        "Dark Theme",
+        "VS Code Theme",
+        "Visual Studio Code Theme",
+        "dark",
+        "dark blue",
+        "dark colour"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oxygen Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oxygen Theme-color-theme.json"
+            }
+        ]
+    }
+}
