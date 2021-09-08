@@ -1,7 +1,7 @@
 {
     "name": "oxygen-theme",
     "displayName": "Oxygen Theme",
-    "description": "",
+    "description": "Oxygen Theme is a minimal theme for VS Code that comes in dark mode.",
     "publisher": "OxygenTheme",
     "repository": {
         "type": "git",
@@ -10,7 +10,7 @@
     "bugs": {
         "url": "https://github.com/Sank3tX/oxygen-vscode-theme/issues"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.57.0"
     },

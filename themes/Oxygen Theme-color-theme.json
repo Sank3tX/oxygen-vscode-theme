@@ -13,7 +13,7 @@
 			"name": "String Escape",
 			"scope": "constant.character.escape, text.html constant.character.entity.named, punctuation.definition.entity.html",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 			"name": "Keyword",
 			"scope": "keyword.operator.class",
 			"settings": {
-				"foreground": "#636987"
+				"foreground": "#ABB2BF"
 			}
 		},
 		{
@@ -69,7 +69,7 @@
 			"name": "Keyword logical",
 			"scope": "keyword.operator.logical",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ABB2BF"
 			}
 		},
 		{
@@ -90,7 +90,7 @@
 			"name": "Storage modifier",
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#D65A31"
+				"foreground": "#E06C75"
 			}
 		},
 		{
@@ -112,14 +112,15 @@
 			"name": "Type",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
+		//#E93B81
 		{
 			"name": "Type",
 			"scope": "entity.name.type, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#E93B81"
+				"foreground": "#56B6C2"
 			}
 		},
 		{
@@ -134,28 +135,28 @@
 			"name": "Class",
 			"scope": "entity.name.type.class",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
 			"name": "Class variable",
 			"scope": "variable.object.property, meta.field.declaration entity.name.function",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
 			"name": "Class method",
 			"scope": "meta.definition.method entity.name.function",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
 			"name": "Function definition",
 			"scope": "meta.function entity.name.function",
 			"settings": {
-				"foreground": "#F9F7CF"
+				"foreground": "#baff85"
 			}
 		},
 		{
@@ -169,7 +170,7 @@
 			"name": "Reset embedded/template expression colors",
 			"scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#ABB2BF"
 			}
 		},
 		{
@@ -211,7 +212,7 @@
 			"name": "CSS tag",
 			"scope": "source.css entity.name.tag",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
@@ -312,7 +313,7 @@
 			"name": "C# class",
 			"scope": "source.cs meta.class.identifier storage.type",
 			"settings": {
-				"foreground": "#A3F7BF",
+				"foreground": "#E5C07B",
 				"fontStyle": "underline"
 			}
 		},
@@ -320,7 +321,7 @@
 			"name": "C# class method",
 			"scope": "source.cs meta.method.identifier entity.name.function",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
@@ -334,14 +335,14 @@
 			"name": "C# type",
 			"scope": "source.cs storage.type",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
 			"name": "C# return type",
 			"scope": "source.cs meta.method.return-type",
 			"settings": {
-				"foreground": "#A3F7BF"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
